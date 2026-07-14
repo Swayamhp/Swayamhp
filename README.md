@@ -27,7 +27,7 @@
 
   <!-- Profile Stats -->
   <div style="margin: 30px 0;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Swayamhp&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="50%">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Swayamhp&theme=tokyonight" alt="GitHub Stats" width="100%">
   </div>
 </div>
 
@@ -40,7 +40,7 @@
 
 Hello! I'm **Hara Prasad**, a passionate Full-Stack Developer with a keen interest in building scalable applications and exploring the intersection of AI and modern web technologies.
 
-With expertise in both frontend and backend development, I specialize in creating elegant solutions for complex problems. My journey in tech has been marked by continuous learning, collaboration, and a commitment to writing clean, efficient code.
+With expertise in both frontend and backend development, I specialize in creating elegant solutions for complex problems. My journey in tech has been marked by continuous learning, collaboration, [...]
 
 **🎯 My Focus Areas:**
 - 🌐 Full-Stack Web Development (TypeScript, React, Next.js, Express.js)
@@ -154,11 +154,8 @@ Smart bookmark management tool for organizing and managing web resources efficie
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Swayamhp&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" width="50%">
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swayamhp&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" width="50%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Swayamhp&theme=tokyonight" alt="GitHub Stats" width="48%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Swayamhp&theme=tokyonight" alt="Top Languages" width="48%">
 </div>
 
 ---
