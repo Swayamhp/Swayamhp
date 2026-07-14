@@ -14,7 +14,7 @@
     <a href="https://github.com/Swayamhp" target="_blank">
       <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" alt="GitHub">
     </a>
-    <a href="#" target="_blank">
+    <a href="https://www.linkedin.com/in/hara-prasad-gouda-9b458a2a9/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
     </a>
     <a href="#" target="_blank">
@@ -38,7 +38,7 @@
   <h2>🚀 About Me</h2>
 </div>
 
-Hello! I'm **Swayam HP**, a passionate Full-Stack Developer with a keen interest in building scalable applications and exploring the intersection of AI and modern web technologies.
+Hello! I'm **Hara Prasad**, a passionate Full-Stack Developer with a keen interest in building scalable applications and exploring the intersection of AI and modern web technologies.
 
 With expertise in both frontend and backend development, I specialize in creating elegant solutions for complex problems. My journey in tech has been marked by continuous learning, collaboration, and a commitment to writing clean, efficient code.
 
